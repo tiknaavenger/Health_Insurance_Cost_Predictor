@@ -57,6 +57,7 @@ Health_Insurance_Cost_Predictor/
 ---
 
 ## Application Screenshot
+https://health-insurance-premium-predictor-new.streamlit.app/
 
 <p align="center">
   <img src="screenshot.png" alt="Health Insurance Cost Predictor UI" width="700"/>
