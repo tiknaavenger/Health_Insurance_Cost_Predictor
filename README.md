@@ -77,7 +77,7 @@ https://health-insurance-premium-predictor-new.streamlit.app/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/tiknaavenger/Health_Insurance_Cost_Predictor.git
+   git clone https://github.com/MindMatrixPro/Health_Insurance_Cost_Predictor.git
    cd Health_Insurance_Cost_Predictor
    ```
 
